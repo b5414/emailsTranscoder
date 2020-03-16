@@ -1,5 +1,4 @@
-﻿
-#[Emails transcoder](https://github.com/pandao/editor.md "source.js file")
+# [Emails transcoder](https://github.com/b5414/emailsTranscoder/blob/master/source.js "source.js file")
 
 Скрипт создан для передачи меньших данных, чем могло бы потребоваться без него.
 
